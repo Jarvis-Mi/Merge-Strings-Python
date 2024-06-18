@@ -1,7 +1,7 @@
 # Merge-Strings-Python
 This repository provides a Python function whose main theme is from the following web sub and named 1768.Merge Strings Alternately
-[Link text]([URL](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
-))
+
+[Link text](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)
 
 
 # Efficient String Merging in Python
